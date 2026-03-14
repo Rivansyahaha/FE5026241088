@@ -1,0 +1,24 @@
+.logoig {
+    width: 70px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.kalimat {
+    text-align: center;
+    width: 450px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.gambar {
+    width: 350px;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 15px;
+}
+
+.col-10 {
+    margin: auto;
+}
